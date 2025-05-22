@@ -1,6 +1,6 @@
-# cadastro_produto_completo
+# Cadastro Produto Completo
 
-A new Flutter project.
+Esse é um projeto do curso de extensão da UNICESUMAR.
 
 ## Getting Started
 
